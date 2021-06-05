@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\blink.obj" 
+TO ".\Objects\blink-hex" 
+PRINT(".\Listings\blink-hex.m51")

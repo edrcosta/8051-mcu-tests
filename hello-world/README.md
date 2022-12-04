@@ -1,15 +1,6 @@
-# 8051 Learning
+# Hello world 
 
-This repository contains study code for 8051 Microcontroller im currently using AT89S51 
-
-http://ww1.microchip.com/downloads/en/devicedoc/doc2487.pdf
-
-# Uploading code to 8051
-
-Im using an arduino uno as SPI programmer 
-
-https://www.instructables.com/How-to-Program-8051-Using-Arduino/
-
+for a MCU blink its a hello world
 
 ## Uploading with AVR dude 
 
